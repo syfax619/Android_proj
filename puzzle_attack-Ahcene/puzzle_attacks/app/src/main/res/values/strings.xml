@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Puzzle Attack</string>
+    <!--<string name="nom">Puzzle Attack</string>-->
+    <string name="jouer">Jouer</string>
+    <string name="comment_jouer">Comment jouer</string>
+    <string name="param">Parametres</string>
+    <string name="profile">Mon profile</string>
+    <string name="hof">Hall of fame</string>
+    <string name="surprise">Awesome surprise</string>
+    <string name="accueil">Accueil</string>
+    <string name="niveau1">Niveau 1</string>
+    <string name="niveau2">Niveau 2</string>
+    <string name="niveau3">Niveau 3</string>
+    <string name="son">Son</string>
+    <string name="propos">A propos</string>
+    <string name="score">Scores</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="20dp"
+    android:background="@color/blanc"
+    android:orientation="vertical" >
+
+    <Button android:id="@+id/jouer"
+        style="@style/bouton_accueil"
+        android:text="@string/jouer" />
+
+    <Button android:id="@+id/comment_jouer"
+        style="@style/bouton_accueil"
+        android:text="@string/comment_jouer" />
+
+    <Button android:id="@+id/a_propos"
+        style="@style/bouton_accueil"
+        android:text="@string/propos" />
+
+    <Button android:id="@+id/score"
+        style="@style/bouton_accueil"
+        android:text="@string/score" />
+
+    <Button android:id="@+id/son"
+        style="@style/bouton_accueil"
+        android:text="@string/son" />
+</LinearLayout>
